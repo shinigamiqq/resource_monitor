@@ -1,0 +1,5 @@
+Django
+mysqlclient
+fastapi
+uvicorn
+celery
